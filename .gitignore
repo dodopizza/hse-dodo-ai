@@ -1,0 +1,108 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+syntax:glob
+#igonre dirs
+.vs/
+.vscode/
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+[Pp]ackages/
+/packages
+**/Configs/Current/
+[Gg]enerated/
+node_modules
+_ReSharper.*
+.idea/
+.gitconfig
+.coverage
+build
+
+#allow build scripts and dependant tools/*
+typings
+.coverage
+#allow Nuget
+![Nn]uget.exe
+#allow daemon
+![Dd]aemon.exe
+#allow taskclient
+!wkhtmltoimage.exe
+![Tt]ask[Cc]lient.exe
+#ignore extensions
+*.cache
+*.user
+*.suo
+*.pdb
+*.orig
+*.rej
+*.Cache
+*.log
+*.webtestresult
+*.psess
+*.vspx
+*.DS_Store
+*.lock.json
+*.dll
+*.exe
+*.tmp
+*.xml
+*.tgz
+*.manifest
+node_modules
+_ReSharper.*
+.idea/
+.gitconfig
+dist
+!**/app/dist/
+typings
+lib
+#allow Nuget
+![Nn]uget.exe
+#allow daemon
+![Dd]aemon.exe
+#allow taskclient
+!wkhtmltoimage.exe
+![Tt]ask[Cc]lient.exe
+#ignore extensions
+![Dd]aemon.exe
+#allow taskclient
+!wkhtmltoimage.exe
+![Tt]ask[Cc]lient.exe
+#ignore extensions
+*.cache
+*.user
+*.suo
+*.pdb
+*.orig
+*.rej
+*.Cache
+*.log
+*.webtestresult
+*.psess
+*.vspx
+*.DS_Store
+*.lock.json
+*.dll
+*.exe
+*.tmp
+*.xml
+*.xls
+*.xlsx
+*.txt
+*.ods
+*.jpg
+*.tgz
+*.csv
+*.ods#
+*.csv#
+*.png
+*.pdf
+*.rar
+*.zip
+*.manifest
+*.jpg
+*.png
+*.csv
