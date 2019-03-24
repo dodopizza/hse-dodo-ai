@@ -11,8 +11,8 @@
 Компания имеет долгосрочные планы на данную надстройку для Алисы, однако все они, в основном, не афишируются, за исключением ввода оплаты банковской картой (на данный момент "Алиса" не располагает такими возможностями).
 Основные используемые технологии и модели: Natural Language Understanding, Natural Language Generation, kNN, LSTM, Auto-encoders.
 #### Источники:
-https://news.rambler.ru/other/40887503-kak-podruzhit-klientov-s-alisoy-ot-yandeksa-opyt-just-ai-i-papa-john-s/?updated
-https://habr.com/ru/company/yandex/blog/349372/
+- https://news.rambler.ru/other/40887503-kak-podruzhit-klientov-s-alisoy-ot-yandeksa-opyt-just-ai-i-papa-john-s/?updated
+- https://habr.com/ru/company/yandex/blog/349372/
 
 ## Domino's pizza DRU
 Изначально, в 2015 году проект DRU стартовал с одной единственной целью - создать робота для доставки пиццы. Спустя почти два года в Гамбурге была совершена первая автоматизированная доставка пиццы. На настоящий момент компания продолжает заниматься этим проектом, более того, "ассортимент" роботов пополнился квадрокоптерами, однако, о полномасштабном внедрении подобной доставки говорить еще рано. На сегодняшний день существует слишком много факторов, препятствующих роботизированной доставке. Главными проблемами является дороговизна подобного оборудования, а также местные законы, которые могут поставить крест на подобной идее (в качестве примера можно привести запрет на полеты над многими городами, что практически сводит на нет возможность использования дронов). 
@@ -33,7 +33,7 @@ https://habr.com/ru/company/yandex/blog/349372/
 
 #### Источники:
 - https://dru.dominos.co.nz/
-- https://www.nuance.com/omni-channel-customer-engagement/digital/- virtual-assistant/nina.html
+- https://www.nuance.com/omni-channel-customer-engagement/digital/virtual-assistant/nina.html
 - https://www.zdnet.com/article/dominos-partners-with-nuance-for-dru-artificial-intelligence/
 - https://www.news.com.au/finance/small-business/dominos-delivers-first-pizza-by-robot/news-story/9853ce8c65564eb5626da76c7294f8e1
 
@@ -51,6 +51,14 @@ https://habr.com/ru/company/yandex/blog/349372/
 
 ## CaliBurger Robotic Chef 
 
+В 2018 году сеть ресторанов CaliBurger заключила эксклюзивный контракт с [Miso Robotics](https://misorobotics.com/) на поставку автоматизированного манипулятора для приготовления бургеров. Miso Flippy представляет собой систему из Miso Move - непосредственно манипулятора, способного совершать необходимые действия на кухне (в случае с CaliBurger - класть на плиту котлеты, булочки и все остальные необходимые ингридиенты, переворачивать их и, конечно же, собирать бургер), Miso See - специальных оптических и термических сенсоров, а также Miso Servr системы, оптимизирующей выполнение заказов. 
+В планах компании на ближайшее бущуее - оснастить каждый из 50 ресторанов на территории США подобными системами.
+
+Используемые технологии: Visual Recognition, Image Captioning
+
+Источники:
+- https://caliburger.com/pasadena
+- https://misorobotics.com/
 
 
 
