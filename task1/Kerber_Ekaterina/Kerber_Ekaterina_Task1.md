@@ -171,7 +171,7 @@ The technology will be intricate enough to distinguish between different bakery 
 
 Using the grant from Innovate UK, BakePlan will begin creating the AI system and roll it out to customers, of which M&S is “at the top of the list”.
 
-“This award from Innovate UK will enable us to take our concept from the drawing board to reality,” said Jane Tyler, managing director of BakePlan Software. “We will do this by mixing machine learning, autonomous imaging, speech recognition and mobile/cloud internet data delivery.”
+>“This award from Innovate UK will enable us to take our concept from the drawing board to reality,” said Jane Tyler, managing director of BakePlan Software. “We will do this by mixing machine learning, autonomous imaging, speech recognition and mobile/cloud internet data delivery.”
 
 M&S has used BakePlan to reduce waste in its bakeries since 2015. This year, it set a company-wide goal to cut food waste by 50% by 2025 as part of its Plan A sustainability programme.
 
@@ -239,7 +239,7 @@ As a result, Harry-Brot achieved overall cost reductions of 3.57 percent and 1.8
 
 To come up with the perfect chocolate chip cookie, Google engineers established the inputs: chocolate, flour, vanilla etc. Google employees would test a recipe, give it a numerical rating and then the system would recalibrate the recipe based on the feedback.
 
-"We did this dozens of times—baking, rating, and feeding it back in for a new recipe—and pretty soon the system got much better at creating tasty recipes," writes Golovin.
+>"We did this dozens of times—baking, rating, and feeding it back in for a new recipe—and pretty soon the system got much better at creating tasty recipes," writes Golovin.
 
 Once the Google engineers had an AI perfected baseline cookie, they teamed up with Jeanette Harris of the Gluten Free Goat Bakery & Cafe. They added a couple of wildcard ingredients to the mix — cardamom and szechuan pepper — to see what their AI cookie-baking system would do. And the final product had to be gluten free.
 
