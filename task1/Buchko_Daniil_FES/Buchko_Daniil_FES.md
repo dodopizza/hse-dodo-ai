@@ -58,7 +58,7 @@ Zume Pizza, стартап доставки еды в районе залива 
 
 Подробнее: [*мяу*](https://arxiv.org/ftp/arxiv/papers/1901/1901.01642.pdf)
 
-# Современные исследования в области общепита
+# Современные [исследования](https://blog.produvia.com/artificial-intelligence-ai-in-food-industry-ec8e925fa35e) в области общепита
 
 [**Whisk**](https://whisk.com/) uses **deep learning** and **natural language processing** to map the world’s food ingredients, properties (nutrition, perishability, flavour, categories) and food purchase options in order to provide hyper-relevant advertising and customized personalizations 
 
@@ -69,3 +69,7 @@ Zume Pizza, стартап доставки еды в районе залива 
 [**Sure**](https://blog.surebot.io/why-sure-2b69343775ea) is applying **natural language processing and machine learning** to better understand user’s needs and navigate them to the right businesses in the overcrowded food scene
 
 [**Instacart**](https://tech.instacart.com/instacart-anytime-a-data-science-paradigm-33eb25a5c32d) uses **machine learning** to predict real-time availability of grocery items; **machine learning, representation learning and image similarity search** to sort items for users to “buy again” and recommend items for users while they shop; **deep learning** and emojis to sort shoppings lists; **machine learning** to predict distribution of time expected for any given shopper; **machine learning** to predict the number of orders for each delivery window for a given store; **regression models** and **machine learning** to manage variance and ensure on-time deliveries; and **machine learning models** to predict the likelihood of claim and cancelation of any particular hours in order to improve supply planning.
+
+[**Pingwell**](http://www.pingwell.com/) is exploring the use of **computer vision** and **machine learning algorithms** to deliver the contextual information to consumers and retailers in the grocery/pharmacy space.
+
+
