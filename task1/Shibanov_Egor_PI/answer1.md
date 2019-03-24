@@ -60,5 +60,6 @@ TOMRA продают оборудование для сортировки все
 В принципе, вся необходимая информация есть на сайте https://www.tomra.com/ru-ru/ 
 
 ## KanKan
-
+KanKan AI уже используется во многих сферах (так, например, система распознавания лиц и жестов хорошо показала себя после заупска в одном из супермаркетов Китая), но для общепита система может быть использована для обеспечения соблюдения норм гигиены на кухнях.
+> Remark Holdings Inc. announced its KanKan subsidiary has been awarded a seven-figure contract by a state-owned enterprises in China to provide a facial and object recognition technology to a Shanghai municipal health agency, which will use the product to ensure that restaurants comply with local food safety laws. The technology, which will first be installed in 200 restaurants before later being expanded to 2,000 facilities, utilizes artificial intelligence to ensure that food service workers are wearing hats and masks by instantly analyzing images obtained from an artificial intelligence device designed by KanKan and attached to cameras installed in a restaurant kitchen. After analyzing the images, the software detects any violation of the specified food safety laws and extracts screen images, with violation details, that the health agency can then review.
 ## SOCIP
