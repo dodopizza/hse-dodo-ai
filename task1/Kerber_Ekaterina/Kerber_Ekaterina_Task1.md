@@ -109,6 +109,17 @@
 
 >"Искусственный интеллект, машинное обучение, боты, блокчейн — ожидается, что мы будем применять эти технологии в маркетинге. При этом нельзя забывать о том, что по-настоящему важно. Об идее. Искусственный интеллект не заменит идей, которые предлагают люди."Марчело Паскуа, директор по маркетингу Burger King
 
+### Starbucks
+Starbucks  is embracing the trend towards voice-based computing with the launch of a new feature in its mobile app called My Starbucks barista, which allows customers to order and pay for their food and drinks just by speaking. This includes being able to modify their drink order, as if they were speaking with a barista in real life. Additionally, the company is launching a skill for the Amazon Alexa platform, which lets customers re-order their favorite items by speaking to their Echo speaker or other Alexa-powered device.
+
+The company had previously announced its plans to launch a voice assistant at its Investor Day, saying then that it would arrive to beta testers sometime in the early part of 2017.
+
+The feature utilizes artificial intelligence to process the incoming orders through a new messaging interface in the Starbucks app. Here, customers can also interact with the virtual assistant by messaging their order, chatbot-style. The assistant can confirm which location you want to order from, and help to process the payment, as well
+
+Starbucks says that the new assistant will initially only be available to one thousand customers nationwide on iOS during a limited beta test, with a phased rollout planned through summer 2017. The Android version will then follow later in the year.
+
+Related to Starbucks’ adoption of voice computing, the company also introduced the “Starbucks Reorder Skill” for Amazon  Alexa. This lets customer re-order their usual items by saying “Alexa, order my Starbucks.” This will require customers to have the Starbucks mobile app installed on their device, and an account set up where they’ve designated their favorite order.
+
 ### Первый в мире ресторан под управлением искусственного интеллекта  в Пекине
 В декабре 2018 года в Пекине открылся первый в мире ресторан под управлением искусственного интеллекта.Ресторан создан в сотрудничестве с Panasonic и, как заявлено, ставит своей целью сбережение энергии и экологичность. Значительная часть процесса приготовления блюд и обслуживания гостей полностью автоматизирована. Управляется ресторан автоматически. Искусственный интеллект в реальном времени видит число заказов, блюда, остатки по складам, загрузку плит и посудомоечных машин, может предсказывать наплыв посетителей и наиболее популярные заказы. Одна из задач искусственного интеллекта — оптимизация расходования ресурсов и затрат энергии.
 
@@ -147,8 +158,29 @@ The integration of Miso Robotics into CaliBurger's kitchens will allow the chain
 
 ## Производственные компании в общепите, которые исползуют искуственный интеллект
 
+### Bakery M&S (UK)
+A new artificial intelligence system that calculates exactly how many bakery items to produce without creating waste could soon land in M&S stores.
 
-    
+Forecasting company BakePlan, which counts M&S among its customers, has secured a £43,600 grant from the government’s innovation arm to develop an AI solution to food waste.
+
+Under the current BakePlan system, bakery employees must manually record the number of items they produce to calculate how much more is required for particular times of the day.
+
+The new system will use imaging technology to detect the quantity of items made and use voice technology to tell employees how much more to bake.
+
+The technology will be intricate enough to distinguish between different bakery items. For example, it could detect that the bakery has made six plain croissants and tell staff to bake 14 more.
+
+Using the grant from Innovate UK, BakePlan will begin creating the AI system and roll it out to customers, of which M&S is “at the top of the list”.
+
+“This award from Innovate UK will enable us to take our concept from the drawing board to reality,” said Jane Tyler, managing director of BakePlan Software. “We will do this by mixing machine learning, autonomous imaging, speech recognition and mobile/cloud internet data delivery.”
+
+M&S has used BakePlan to reduce waste in its bakeries since 2015. This year, it set a company-wide goal to cut food waste by 50% by 2025 as part of its Plan A sustainability programme.
+
+### Food Service Apps
+Food service apps are now utilizing AI to benefit the restaurant industry, not just on a customer service level but also to improve the quality of food.
+
+Founded in 2013, TellSpec is an AI company that has developed a hand-held scanner to classify the contents of food at a molecular level. They use bioinformatics techniques and learning algorithms to provide information about the ingredients and other details about food. A light is beamed directly onto the food item to read chemical compounds before the information is uploaded through TellSpec’s analytics systems. Restaurateurs can receive the data about the food via their smartphones.
+
+This type of AI can benefit the restaurant industry because TellSpec says that its technology can identify harmful substances in food. Substances that cause allergies can also be identified. Calories and macronutrients are recognized to provide customers with more information about the composition of their food. This AI technology provides benefits in relation to food safety and serves as a verification system and safeguard for restaurants. Customers are becoming increasingly concerned about the origins and composition of their food. AI technology such as TellSpec gives customers confidence due to the transparency in relation to nutritional values and other relevant information.  
 
     
 
