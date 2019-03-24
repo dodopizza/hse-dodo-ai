@@ -71,3 +71,5 @@ https://www.nottingham.ac.uk/news/pressreleases/2016/september/new-ai-driven-cle
 На данный момент система проходит этап годового обучения для создания неообходимых алгоритмов и получения данных
 > The year-long feasibility study will go on to develop bespoke software to process the sensor data results and generate algorithms for an AI-based monitoring system. This self-predicting system will be able to autonomously optimise the cleaning process in plant equipment in real-time. 
 Установка такой системы позволит компаниям производства пищи экономить до 300.000 фунтов в год на электроэнергии и воде 
+
+В общем, в производстве ИИ применяется для сокращения расходов, замены человека в областях, подразумевающих монотонный труд и увеличения КПД предприятия (машина будет сортировать продукты быстрее, чем человек и пр.)
