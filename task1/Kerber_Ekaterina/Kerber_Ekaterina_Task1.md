@@ -196,3 +196,47 @@ Less groundbreaking but equally ambitious is a suite of sensor-driven software a
 Three packages have been created, the most interesting of which is the maintenance pack. Vibration sensors and motor amperage draw and temperature provide condition-monitoring data that enable a predictive approach to machine maintenance. Besides PM alerts, the maintenance pack generates alarms when machine faults are detected.
 
 Other packages are a traceability pack, which captures electronic signatures for every human input, and an energy and exhaust monitoring system to benchmark consumption of gas, electricity, compressed air and steam. An on-board data historian is part of all three packages.
+
+### AI start-up targets waste reduction in bakeries (year 2018)
+[Ссылка на сайт, т.к. копирование с сайта запрещено](https://bakeryinfo.co.uk/news/fullstory.php/aid/20171/AI_start-up_targets_waste_reduction_in_bakeries.html)
+
+### Bakkersland (Hedel, The Netherlands; year 2017)
+
+*Opportunity or Challenge:*
+
+Bakkersland, the largest baking company in the Netherlands, needed to get a better idea of what demand for its products would be on a day-to-day basis, so it could produce accordingly. The company, which has 300 trucks delivering 2 million fresh baked breads to 1,200 supermarkets every day, needed to reduce the amount of leftover products left on the shelves.
+
+As the leftover products can’t be sold the day after, retailers have the tendency to order less than they expect to sell. Product unavailability is a large cause of dissatisfaction among customers, which often goes unnoticed by the retailer. As documented in a recent case study, Bakkersland wanted to use information technology and artificial intelligence to optimize turnover and service levels.
+
+“Retailers tend to order their bread products just in time, and during the production process we still regularly receive changes,” according to Hein Boersma, ICT manager at Bakkersland. “In the remaining production time, we need to produce the exact numbers up to our quality standards. Not only do we have to deal with changes in demand, fluctuations in the production process, caused by numerous factors, occur regularly as well.”
+
+*Meeting the Challenge:*
+
+To predict the consumer demand per-day and per-retailer, Bakkersland asked GoDataDriven, a division of Xebia Group, to develop a predictive sales planning model. This machine learning model optimizes the availability of fresh bread products, while at the same time minimizes left-over.
+
+The team developed an artificial intelligence model that determines the ideal amount of fresh bread products per supermarket per day over a longer period by analyzing transaction details combined with external data. The model provides Bakkersland with the right data to automatically produce the ideal amount of bread for every supermarket, based on demand and the specific assortment preferences of the retailer. The new system provides insight in predicted demand over longer periods of time. Once the production need is known upfront, the bakery can suggest promotion slots to retailers, and thus stimulate demand in times of overcapacity.
+
+To improve data quality, the team also implemented a data cleaning process intended to filter mistakes made at the cash register, such as transactions of large amounts of bread that are flushed immediately after they have been sold. Also, the process matches retailers’ own codes with Bakkersland’s product codes.
+
+As the model recognizes patterns, feedback from the retailers is crucial in training the model. By combining input from retailers and the increasing amount of data, the model’s predictions become more accurate, which in turn leads to retailers building confidence and trust in the model.
+
+*Benefits From This Initiative:*
+
+After going live at one supermarket, the new system and machine learning model lead to a decrease of sold-out products and the minimization of leftover products, the case study reports.
+
+Ability to address individual customer requests also has been heightened. For instance, on one given Wednesday, a customer was unable to find her type of bread. After carefully studying the data, it turned out that this customer was the only person who bought this type of bread, and she always came in on Thursdays. Now, the supermarket manager and the customer discussed that when she plans to come to the store on a different day, she contacts the supermarket beforehand, so they can order her preferred type of bread.
+
+Results from the model’s first full implementation period are positive, the case study reports, with visibly improved sales figures and product availability. The company plans to connect all its supermarkets into this intelligent, real-time demand planning system.
+
+The company is also working to use sales analysis to include profit margins in the model as well. By using this data as a feature in the model, it will become possible to optimize the profit per retailer by steering on the availability of specific bread types.
+
+#### PreciBake
+[Ссылка на сайт, т.к. копирование с сайта запрещено](https://www.bakeryandsnacks.com/Article/2014/03/27/PreciBake-Bakery-ovens-that-use-algorithms)
+
+#### FICO
+
+A German baker, Harry-Brot, has found new ways to minimize pressures by using FICO optimization technologies. Harry-Brot produces more than 1,000 varieties of baked goods on 73 different production lines to fulfill the everyday demands of more than 9,000 stores.
+
+Cutting corners that may hamper quality would be neither acceptable nor wise. Instead, the food manufacturer examined its existing approaches to production and transportation. It then leveraged the large amounts of data from its operations to set variables, modify constraints and explore trade-offs to optimize its strategy for baking production and distribution. These insights allowed Harry-Brot to test different scenarios to determine the most profitable options.
+
+As a result, Harry-Brot achieved overall cost reductions of 3.57 percent and 1.81 percent for production and transportation costs, respectively. For its optimization use and results, achieved with the help of optimization firm Asolvo and FICO Xpress Optimization, Harry-Brot won the 2017 FICO Decisions Award for AI, Machine Learning and Optimization.
