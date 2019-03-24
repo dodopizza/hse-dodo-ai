@@ -36,8 +36,7 @@ https://pointsforpies.dominos.com
 
 https://www.youtube.com/watch?v=kvyw3S63Uag 
 
-Больше: new-retail.ru/novosti/retail/papa_dzhons_otsenit_kachestvo_pitstsy_s_pomoshchyu_iskusstvennogo_intellekta6841/1 
-
+Больше: https://new-retail.ru/novosti/retail/papa_dzhons_otsenit_kachestvo_pitstsy_s_pomoshchyu_iskusstvennogo_intellekta6841/
 
 2. Улучшение customer experience: заказ с помощью яндексовской Алисы
 
