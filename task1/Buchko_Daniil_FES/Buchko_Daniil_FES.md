@@ -72,7 +72,7 @@ Zume Pizza, стартап доставки еды в районе залива 
 
 [**Pingwell**](http://www.pingwell.com/) is exploring the use of **computer vision** and **machine learning algorithms** to deliver the contextual information to consumers and retailers in the grocery/pharmacy space.
 
-# Независимые исследования 
+# Независимые исследования by Cornell University
 
 *Внутри каждой ссылки есть подробные описания моделей на английском с иллюстрациями и графиками, перепечатывать сюда не хватило бы места :)*
 
