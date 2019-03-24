@@ -193,7 +193,7 @@ Other packages are a traceability pack, which captures electronic signatures for
 ### AI start-up targets waste reduction in bakeries (year 2018)
 [Ссылка на сайт, т.к. копирование с сайта запрещено](https://bakeryinfo.co.uk/news/fullstory.php/aid/20171/AI_start-up_targets_waste_reduction_in_bakeries.html)
 
-#### PreciBake
+### PreciBake
 [Ссылка на сайт, т.к. копирование с сайта запрещено](https://www.bakeryandsnacks.com/Article/2014/03/27/PreciBake-Bakery-ovens-that-use-algorithms)
 [Официальный сайт](http://www.precibake.com/)
 
@@ -233,7 +233,7 @@ Cutting corners that may hamper quality would be neither acceptable nor wise. In
 
 As a result, Harry-Brot achieved overall cost reductions of 3.57 percent and 1.81 percent for production and transportation costs, respectively. For its optimization use and results, achieved with the help of optimization firm Asolvo and FICO Xpress Optimization, Harry-Brot won the 2017 FICO Decisions Award for AI, Machine Learning and Optimization.
 
-##### Google used A.I. to find the perfect chocolate chip cookie recipe
+### Google used A.I. to find the perfect chocolate chip cookie recipe
 >"Over the past year, a small research team at Google has been experimenting with a new technology for experimental design. To demonstrate what this technology could do, our team came up with a real-world challenge: designing the best possible chocolate chip cookies using a given set of ingredients," says senior staff engineer Daniel Golovin in a blog post about the experiment.
 
 To come up with the perfect chocolate chip cookie, Google engineers established the inputs: chocolate, flour, vanilla etc. Google employees would test a recipe, give it a numerical rating and then the system would recalibrate the recipe based on the feedback.
