@@ -175,13 +175,6 @@ Using the grant from Innovate UK, BakePlan will begin creating the AI system and
 
 M&S has used BakePlan to reduce waste in its bakeries since 2015. This year, it set a company-wide goal to cut food waste by 50% by 2025 as part of its Plan A sustainability programme.
 
-### Food Service Apps
-Food service apps are now utilizing AI to benefit the restaurant industry, not just on a customer service level but also to improve the quality of food.
-
-Founded in 2013, TellSpec is an AI company that has developed a hand-held scanner to classify the contents of food at a molecular level. They use bioinformatics techniques and learning algorithms to provide information about the ingredients and other details about food. A light is beamed directly onto the food item to read chemical compounds before the information is uploaded through TellSpec’s analytics systems. Restaurateurs can receive the data about the food via their smartphones.
-
-This type of AI can benefit the restaurant industry because TellSpec says that its technology can identify harmful substances in food. Substances that cause allergies can also be identified. Calories and macronutrients are recognized to provide customers with more information about the composition of their food. This AI technology provides benefits in relation to food safety and serves as a verification system and safeguard for restaurants. Customers are becoming increasingly concerned about the origins and composition of their food. AI technology such as TellSpec gives customers confidence due to the transparency in relation to nutritional values and other relevant information.
-
 ### Artificial Intelligence  in Industrial Baking
 October’s International Baking Industry Exposition in Las Vegas  in 2017 served as the coming-out venue for PreciBake GmbH, a Munich, Germany-based software developer that recently established North American operations in New York. The company’s technology has been applied since 2012 in the automotive sector, according to chief technology officer Ingo Stork-Wersborg, primarily for precision welding for unibody construction. PreciBake has assigned 50 computer engineers to refine the application of sensors and software for bakery equipment and allow “the machine to program itself,” he told IBIE attendees.
 
@@ -200,8 +193,11 @@ Other packages are a traceability pack, which captures electronic signatures for
 ### AI start-up targets waste reduction in bakeries (year 2018)
 [Ссылка на сайт, т.к. копирование с сайта запрещено](https://bakeryinfo.co.uk/news/fullstory.php/aid/20171/AI_start-up_targets_waste_reduction_in_bakeries.html)
 
-### Bakkersland (Hedel, The Netherlands; year 2017)
+#### PreciBake
+[Ссылка на сайт, т.к. копирование с сайта запрещено](https://www.bakeryandsnacks.com/Article/2014/03/27/PreciBake-Bakery-ovens-that-use-algorithms)
+[Официальный сайт](http://www.precibake.com/)
 
+### Bakkersland (Hedel, The Netherlands; year 2017)
 *Opportunity or Challenge:*
 
 Bakkersland, the largest baking company in the Netherlands, needed to get a better idea of what demand for its products would be on a day-to-day basis, so it could produce accordingly. The company, which has 300 trucks delivering 2 million fresh baked breads to 1,200 supermarkets every day, needed to reduce the amount of leftover products left on the shelves.
@@ -230,13 +226,27 @@ Results from the model’s first full implementation period are positive, the ca
 
 The company is also working to use sales analysis to include profit margins in the model as well. By using this data as a feature in the model, it will become possible to optimize the profit per retailer by steering on the availability of specific bread types.
 
-#### PreciBake
-[Ссылка на сайт, т.к. копирование с сайта запрещено](https://www.bakeryandsnacks.com/Article/2014/03/27/PreciBake-Bakery-ovens-that-use-algorithms)
-
-#### FICO
-
+### FICO
 A German baker, Harry-Brot, has found new ways to minimize pressures by using FICO optimization technologies. Harry-Brot produces more than 1,000 varieties of baked goods on 73 different production lines to fulfill the everyday demands of more than 9,000 stores.
 
 Cutting corners that may hamper quality would be neither acceptable nor wise. Instead, the food manufacturer examined its existing approaches to production and transportation. It then leveraged the large amounts of data from its operations to set variables, modify constraints and explore trade-offs to optimize its strategy for baking production and distribution. These insights allowed Harry-Brot to test different scenarios to determine the most profitable options.
 
 As a result, Harry-Brot achieved overall cost reductions of 3.57 percent and 1.81 percent for production and transportation costs, respectively. For its optimization use and results, achieved with the help of optimization firm Asolvo and FICO Xpress Optimization, Harry-Brot won the 2017 FICO Decisions Award for AI, Machine Learning and Optimization.
+
+##### Google used A.I. to find the perfect chocolate chip cookie recipe
+>"Over the past year, a small research team at Google has been experimenting with a new technology for experimental design. To demonstrate what this technology could do, our team came up with a real-world challenge: designing the best possible chocolate chip cookies using a given set of ingredients," says senior staff engineer Daniel Golovin in a blog post about the experiment.
+
+To come up with the perfect chocolate chip cookie, Google engineers established the inputs: chocolate, flour, vanilla etc. Google employees would test a recipe, give it a numerical rating and then the system would recalibrate the recipe based on the feedback.
+
+"We did this dozens of times—baking, rating, and feeding it back in for a new recipe—and pretty soon the system got much better at creating tasty recipes," writes Golovin.
+
+Once the Google engineers had an AI perfected baseline cookie, they teamed up with Jeanette Harris of the Gluten Free Goat Bakery & Cafe. They added a couple of wildcard ingredients to the mix — cardamom and szechuan pepper — to see what their AI cookie-baking system would do. And the final product had to be gluten free.
+
+Two months and 59 recipe iterations later, they had, with the help of the Google AI, a new cookie recipe: The Chocolate Chip and Cardamom Cookie.
+
+### Food Service Apps
+Food service apps are now utilizing AI to benefit the restaurant industry, not just on a customer service level but also to improve the quality of food.
+
+Founded in 2013, TellSpec is an AI company that has developed a hand-held scanner to classify the contents of food at a molecular level. They use bioinformatics techniques and learning algorithms to provide information about the ingredients and other details about food. A light is beamed directly onto the food item to read chemical compounds before the information is uploaded through TellSpec’s analytics systems. Restaurateurs can receive the data about the food via their smartphones.
+
+This type of AI can benefit the restaurant industry because TellSpec says that its technology can identify harmful substances in food. Substances that cause allergies can also be identified. Calories and macronutrients are recognized to provide customers with more information about the composition of their food. This AI technology provides benefits in relation to food safety and serves as a verification system and safeguard for restaurants. Customers are becoming increasingly concerned about the origins and composition of their food. AI technology such as TellSpec gives customers confidence due to the transparency in relation to nutritional values and other relevant information.
