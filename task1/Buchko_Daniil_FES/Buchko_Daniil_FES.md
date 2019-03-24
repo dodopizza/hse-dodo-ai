@@ -58,7 +58,7 @@ Zume Pizza, стартап доставки еды в районе залива 
 
 Подробнее: [*мяу*](https://arxiv.org/ftp/arxiv/papers/1901/1901.01642.pdf)
 
-# Современные [исследования](https://blog.produvia.com/artificial-intelligence-ai-in-food-industry-ec8e925fa35e) в области общепита
+# Современные исследования в области общепита
 
 [**Whisk**](https://whisk.com/) uses **deep learning** and **natural language processing** to map the world’s food ingredients, properties (nutrition, perishability, flavour, categories) and food purchase options in order to provide hyper-relevant advertising and customized personalizations 
 
@@ -72,4 +72,4 @@ Zume Pizza, стартап доставки еды в районе залива 
 
 [**Pingwell**](http://www.pingwell.com/) is exploring the use of **computer vision** and **machine learning algorithms** to deliver the contextual information to consumers and retailers in the grocery/pharmacy space.
 
-
+[Source: ](https://blog.produvia.com/artificial-intelligence-ai-in-food-industry-ec8e925fa35e)
