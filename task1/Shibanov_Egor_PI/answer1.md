@@ -63,7 +63,6 @@ http://www.globaltimes.cn/content/1137284.shtml
 ## TOMRA
 В принципе, вся необходимая информация есть на сайте https://www.tomra.com/ru-ru/ 
 
-Есть описание систем https://books.google.ru/books?id=4hKGDwAAQBAJ&pg=PA767&lpg=PA767&dq=tomra+algorithm&source=bl&ots=1jws_VFkEV&sig=ACfU3U0w4DDYUdLCUNYWvrfQWJnJJ_5LrA&hl=ru&sa=X&ved=2ahUKEwib4eaH1ZrhAhWcw8QBHdhFDsg4ChDoATAFegQICRAB#v=onepage&q=tomra%20algorithm&f=false
 ## RetailAI
 
 ## KanKan
