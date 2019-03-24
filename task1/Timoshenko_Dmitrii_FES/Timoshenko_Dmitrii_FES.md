@@ -234,3 +234,5 @@
 
 1. [Оплата заказа с помощью улыбки или других жестов](https://www.nasdaq.com/article/baidu-bidu-and-kfc-team-up-for-smart-restaurant-in-china-cm727340)
 2. [Сервисы еды, с которыми многие рестораны сотрудничают, чтобы привлечь больше покупателей](https://eda.yandex/moscow)
+
+Кроме того, фирмы в пищевой промышленности часто пользуются прогнозирование спроса. Предсказание будущего спроса и необходимости дополнительных закупок осуществляется различными методами ([с помощью математических методов оптимизации](http://matthewalanham.com/Students/2018_MWDSI_Effect%20of%20Forecast%20Accuracy%20on%20Inventory.pdf) или с [использованием машинного обучения](http://dspace.mit.edu/bitstream/handle/1721.1/117612/Chan_Kharfan_2018_Capstone.pdf?sequence=1)).
