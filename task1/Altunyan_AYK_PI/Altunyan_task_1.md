@@ -14,9 +14,11 @@
 ***
 ###    &nbsp;Содержание:
 1. Решения в области AI в полностью похожих конкурентных бизнесов продажи пиццы
-1.1 Папа Джонс 
-1.2 Pizza Hut & Toyota
-1.3 Zume Pizza
+ 1.1 Папа Джонс 
+ 
+ 1.2 Pizza Hut & Toyota
+ 
+ 1.3 Zume Pizza
 
 2. Решения в области AI в Ресторанном бизнесе
 2.1 Hai Di Lao HotPot 
@@ -79,7 +81,7 @@
 - https://www.itweek.ru/ai/news-company/detail.php?ID=200370
 - https://retailer.ru/ekaterina-kolchina-papa-dzhons-za-god-ne-tolko-kolichestvo-no-i-geografija-nashego-prisutstvija-serjozno-izmenilas/
 
-# ------------------------------------------------------------------------------------------
+# ----------------------------------------------------------
 ##    &nbsp;1.2 Pizza Hut & Toyota ![](https://robo-hunter.com/uploads/images/14107/news/80_990_455_news_5bdab69d603f2.jpg) 
 
 ####  &nbsp; &nbsp;1.2.1 &nbsp;&nbsp;&nbsp;&nbsp;Общее описание интеллектуальной системы и задачи, которые решает
@@ -116,7 +118,7 @@
 - https://robo-hunter.com/news/pizza-hut-i-toyota-sozdali-robotizirovannuy-kuhny-na-kolesah14107
 - https://hightech.fm/2018/10/31/pizza-2
 
-# ------------------------------------------------------------------------------------------
+# ----------------------------------------------------------
 ##    &nbsp;1.3 Zume Pizza 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Zume_Pizza_Logo.png/440px-Zume_Pizza_Logo.png) 
 
