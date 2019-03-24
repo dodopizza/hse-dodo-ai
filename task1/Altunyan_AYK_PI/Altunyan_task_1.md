@@ -15,19 +15,19 @@
 ###    &nbsp;Содержание:
 1. Решения в области AI в полностью похожих конкурентных бизнесов продажи пиццы
 
- &nbsp;&nbsp;1.1 Папа Джонс 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1 Папа Джонс 
  
- &nbsp;&nbsp;1.2 Pizza Hut & Toyota
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2 Pizza Hut & Toyota
  
- &nbsp;&nbsp; 1.3 Zume Pizza
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3 Zume Pizza
 
 2. Решения в области AI в Ресторанном бизнесе
 
- &nbsp;&nbsp;2.1 Hai Di Lao HotPot 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1 Hai Di Lao HotPot 
 
 3. Решения в области AI в производственных компаниях в общепите
 
- &nbsp;&nbsp;3.1 The Coca-Cola Company
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1 The Coca-Cola Company
  
 4. Выводы из анализов решений в области AI
 ***
