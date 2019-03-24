@@ -195,6 +195,7 @@ Other packages are a traceability pack, which captures electronic signatures for
 
 ### PreciBake
 [Ссылка на сайт, т.к. копирование с сайта запрещено](https://www.bakeryandsnacks.com/Article/2014/03/27/PreciBake-Bakery-ovens-that-use-algorithms)
+
 [Официальный сайт](http://www.precibake.com/)
 
 ### Bakkersland (Hedel, The Netherlands; year 2017)
