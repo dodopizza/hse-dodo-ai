@@ -87,9 +87,55 @@
 
 >«Каждый день появляется все больше новостей о том, как машины превосходят людей в работе, из-за чего многие беспокоятся, что это приведет к массовой безработице, — сказала Пинар Янардаг. — Своим проектом мы в шутливой форме хотим показать, что ИИ не стоит бояться. Мы можем работать сообща и получать самые креативные и эффективные результаты. Искусственный интеллект нас не заменит — он будет помогать нам во всем, от приготовления пиццы до разработки дизайна одежды».
 
+## Ресторанный бизнес
+
+### KFC
 
 
 
+### Burger King
+
+
+### Первый в мире ресторан под управлением искусственного интеллекта  в Пекине
+В декабре 2018 года в Пекине открылся первый в мире ресторан под управлением искусственного интеллекта.Ресторан создан в сотрудничестве с Panasonic и, как заявлено, ставит своей целью сбережение энергии и экологичность. Значительная часть процесса приготовления блюд и обслуживания гостей полностью автоматизирована. Управляется ресторан автоматически. Искусственный интеллект в реальном времени видит число заказов, блюда, остатки по складам, загрузку плит и посудомоечных машин, может предсказывать наплыв посетителей и наиболее популярные заказы. Одна из задач искусственного интеллекта — оптимизация расходования ресурсов и затрат энергии.
+
+Часть персонала ресторана Hai Di Lao HotPot заменена роботами. Так, роботы-манипуляторы собирают заказы клиентов из привезенных полуфабрикатов, упаковка каждого оснащена специальным чипом. Отвечают роботы и за доставку заказов посетителям. Автоматические официанты перемещаются при помощи специальных радионаправляющих, смонтированных на потолке, а каждый поднос оснащен электронными метками, позволяющими идентифицировать и сортировать заказы. Кроме того, в ресторане используют интеллектуальные тарелки, меняющие температуру в зависимости от блюда.
+
+Клиенты в свою очередь могут сделать заказ на планшете, сформировать на нам счет и оплатить его.
+
+Для развлечения гостей Hai Di Lao HotPot используется мультимедийная система из проекторов, формирующих изображения на стенах и потолке, и трансляции в небольшом кинотеатре, выполняющем роль зоны для ожидания, если в заведении нет свободных мест.
+
+[Видео](https://www.youtube.com/watch?v=9CfD2WMtPKY)
+
+### *Искусственный интеллект в ресторане*
+In March 2018 Miso Robotics and Cali Group unveiled Flippy, an artificial intelligence-driven robot that will work alongside kitchen staff to grill burgers at CaliBurger restaurants. Flippy had its debut at the CaliBurger location in Pasadena, California. Flippy will roll out in early 2018 and expand to more than 50 CaliBurger restaurants worldwide by the end of 2019.
+
+Miso Robotics is pioneering the use of computer vision and deep learning software to bring low-cost, adaptable robotics into restaurants. The company's collaborative kitchen assistant handles the hazardous, tedious and time-sensitive aspects of grilling and cooks burgers to perfection every time. It easily integrates into CaliBurger's current kitchen layout without needing to reconfigure existing equipment.
+
+While artificial intelligence is being successfully tested and employed to drive cars, manage the home and message with customers, Miso Robotics is the first company to bring robotics and AI into the kitchen in a meaningful way.
+
+>"Much like self-driving vehicles, our system continuously learns from its experiences to improve over time," said David Zito, CEO of Miso Robotics. "Though we are starting with the relatively 'simple' task of cooking burgers, our proprietary AI software allows our kitchen assistants to be adaptable and therefore can be trained to help with almost any dull, dirty or dangerous task in a commercial kitchen — whether it's frying chicken, cutting vegetables or final plating."
+
+>"The application of artificial intelligence to robotic systems that work next to our employees in CaliBurger restaurants will allow us to make food faster, safer and with fewer errors," said John Miller, Chairman of Cali Group. "Our investment in Miso Robotics is part of our broader vision for creating a unified operating system that will control all aspects of a restaurant from in-store interactive gaming entertainment to automated ordering and cooking processes, 'intelligent' food delivery and real-time detection of operating errors and pathogens."
+
+The integration of Miso Robotics into CaliBurger's kitchens will allow the chain to redeploy some of its staff to the dining room to engage more with customers. CaliBurger will also collaborate with Miso Robotics to retrain certain staff to operate Flippy.  
+
+[Video](https://www.prnewswire.com/news-releases/miso-robotics-unveils-flippy-in-caliburger-kitchen-plans-worldwide-rollout-300419426.html)
+
+### *Искусственный интеллект в ресторане*
+
+Билл Гейтс как-то сказал: «Чат-боты помогут людям учиться так, как учусь я сам». И это уже взяли на вооружение многие крупные игроки: Burger King, «Шашлыкоff», рестораны Дениса Иванова, Ginza Project и другие.
+
+Как это работает? Создается «виртуальный тренер», образовательный чат-бот, который позволяет вести персональную обучающую беседу в мессенджере сотрудника. В процессе общения с ботом сотрудник ресторана отвечает на множество различных вопросов, количество которых может достигать десятков миллионов. Если сотрудник неправильно отвечает на вопрос, чат-бот не только пишет, что это неверный ответ, но и разъясняет ошибку и указывает, как правильно. Мало того, искусственный интеллект идентифицирует слабые места в знаниях и усиливает обучение именно по этому направлению.Таким образом необходимая информация закрепляется глубоко и системно.
+
+Обучающий чат-бот «настраивается» на основе базы знаний (меню, стандарты, сервис-бук и пр.) конкретной сети ресторанов. Чат-бот использует текстовые материалы, фото, видеоматериалы ресторанной сети. Все образовательные материалы делятся по ключевым направлениям (продажи, сервис, работа с возражениями и пр.), что позволяет получать детальную отчетность о компетенциях персонала. В качестве контроля чат-бот проводит экзамен — вопросы без обратной связи в ограниченный отрезок времени.
+
+Данные о результатах тестирования сотрудника можно связать с системой мотивации, превратив все это в игру. Например, присваивать за каждый правильный ответ баллы в виде «монеток» и создать внутренний интернет-магазин, где можно будет обменять монетки на какие-то призы (бутылка вина, блюдо, сувенир и т.д.). Именно это и привлекает сотрудников: ребята начинают соревноваться между собой, обучение превращается в удовольствие, тестов ждут, чтобы заработать монетки.
+
+
+
+
+    
 
     
 
