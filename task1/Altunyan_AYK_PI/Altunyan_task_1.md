@@ -14,21 +14,25 @@
 ***
 ###    &nbsp;Содержание:
 1. Решения в области AI в полностью похожих конкурентных бизнесов продажи пиццы
- 1.1 Папа Джонс 
+
+ &nbsp;&nbsp;1.1 Папа Джонс 
  
- 1.2 Pizza Hut & Toyota
+ &nbsp;&nbsp;1.2 Pizza Hut & Toyota
  
- 1.3 Zume Pizza
+ &nbsp;&nbsp; 1.3 Zume Pizza
 
 2. Решения в области AI в Ресторанном бизнесе
-2.1 Hai Di Lao HotPot 
+
+ &nbsp;&nbsp;2.1 Hai Di Lao HotPot 
 
 3. Решения в области AI в производственных компаниях в общепите
-3.1 The Coca-Cola Company
+
+ &nbsp;&nbsp;3.1 The Coca-Cola Company
+ 
 4. Выводы из анализов решений в области AI
 ***
 #    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 1 *
-##    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Решения в области AI в полностью похожих &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;конкурентных бизнесов продажи пиццы
+##    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Решения в области AI в полностью похожих конкурентных бизнесов продажи пиццы
 ***
 ##    &nbsp;1.1 Папа Джонс ![](http://www.baring-vostok.com/upload/iblock/143/143ae8acc7f66d47aa6a29e1e5de68d4.png)
 
