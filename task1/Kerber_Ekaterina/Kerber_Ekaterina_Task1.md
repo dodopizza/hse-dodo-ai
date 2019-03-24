@@ -49,7 +49,7 @@
 
 ### Папа Джонс
 
-В 2018 году сеть пиццерий «Папа Джонс» (PJ Western) объявила о создании искусственного интеллекта, который сможет оперативно оценить качество пиццы, вышедшей из печи. Команда PJ Western запускает новейшую технологию на основе искусственного интеллекта (ИИ), которая автоматически оценивает качество вышедшей из печи пиццы. Более чем 10 лет команда «Папа Джонс» собирала библиотеку из 700 000 фотографий пиццы, которые отличались рецептурой и уровнем качества. Каждому продукту эксперты сети присваивали оценку от 1 до 10 по нескольким параметрам, согласно международному «Золотому стандарту» качества «Папа Джонс», после чего данные загружались в программу для первичного обучения системы.
+В 2018 году сеть пиццерий «Папа Джонс» (PJ Western) объявила о создании **искусственного интеллекта, который сможет оперативно оценить качество пиццы, вышедшей из печи.** Команда PJ Western запускает новейшую технологию на основе искусственного интеллекта (ИИ), которая автоматически оценивает качество вышедшей из печи пиццы. Более чем 10 лет команда «Папа Джонс» собирала библиотеку из 700 000 фотографий пиццы, которые отличались рецептурой и уровнем качества. Каждому продукту эксперты сети присваивали оценку от 1 до 10 по нескольким параметрам, согласно международному «Золотому стандарту» качества «Папа Джонс», после чего данные загружались в программу для первичного обучения системы.
 
 Уникальность алгоритма заключается в возможности автоматической оценки пиццы. Изображение готового продукта загружается в программу, основанную на обученной на исторических данных нейронной сети, которая оценивает ее по принятым в «Папа Джонс» критериям и мгновенно выдает результат. 
 
@@ -107,7 +107,7 @@
 
 [Видео](https://www.youtube.com/watch?v=9CfD2WMtPKY)
 
-### *Искусственный интеллект в ресторане*
+### Miso Robotics Unveils "Flippy" in CaliBurger Kitchen, Plans Worldwide Rollout
 In March 2018 Miso Robotics and Cali Group unveiled Flippy, an artificial intelligence-driven robot that will work alongside kitchen staff to grill burgers at CaliBurger restaurants. Flippy had its debut at the CaliBurger location in Pasadena, California. Flippy will roll out in early 2018 and expand to more than 50 CaliBurger restaurants worldwide by the end of 2019.
 
 Miso Robotics is pioneering the use of computer vision and deep learning software to bring low-cost, adaptable robotics into restaurants. The company's collaborative kitchen assistant handles the hazardous, tedious and time-sensitive aspects of grilling and cooks burgers to perfection every time. It easily integrates into CaliBurger's current kitchen layout without needing to reconfigure existing equipment.
