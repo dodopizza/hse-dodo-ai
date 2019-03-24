@@ -14,23 +14,32 @@
 ***
 ###    &nbsp;Содержание:
 1. Решения в области AI в полностью похожих конкурентных бизнесов продажи пиццы
- 1.1 Папа Джонс 
- 1.2 
+
+ &nbsp;&nbsp;1.1 Папа Джонс 
+ 
+ &nbsp;&nbsp;1.2 Pizza Hut & Toyota
+ 
+ &nbsp;&nbsp; 1.3 Zume Pizza
 
 2. Решения в области AI в Ресторанном бизнесе
- 2.1
-  
+
+ &nbsp;&nbsp;2.1 Hai Di Lao HotPot 
+
 3. Решения в области AI в производственных компаниях в общепите
+
+ &nbsp;&nbsp;3.1 The Coca-Cola Company
+ 
+4. Выводы из анализов решений в области AI
 ***
 #    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 1 *
-##    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Решения в области AI в полностью похожих &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;конкурентных бизнесов продажи пиццы
+##    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Решения в области AI в полностью похожих конкурентных бизнесов продажи пиццы
 ***
 ##    &nbsp;1.1 Папа Джонс ![](http://www.baring-vostok.com/upload/iblock/143/143ae8acc7f66d47aa6a29e1e5de68d4.png)
 
-####  &nbsp; &nbsp;1.1.1 &nbsp;&nbsp;&nbsp;&nbsp;Общее описание интеллектуальной системы и задачи,  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;которые решает
+####  &nbsp; &nbsp;1.1.1 &nbsp;&nbsp;&nbsp;&nbsp;Общее описание интеллектуальной системы и задачи,которые решает
 
 
-Команда **PJ Western** разработала технологию на основе  искусственного интеллекта, которая автоматически оценивает качество вышедшей из печи пиццы.Название новой программы — **«Pizza Magnifico» (PizzaM)** в переводе с латыни — **«Великолепная Пицца»**. 
+В 2017 году команда **PJ Western** разработала технологию на основе  искусственного интеллекта, которая автоматически оценивает качество вышедшей из печи пиццы.Название новой программы — **«Pizza Magnifico» (PizzaM)** в переводе с латыни — **«Великолепная Пицца»**. 
 
 Уникальность алгоритма заключается в возможности автоматической оценки пиццы. Изображение готового продукта загружается в программу, основанную на обученной на исторических данных нейронной сети, которая оценивает ее по принятым в «Папа Джонс» критериям и мгновенно выдает результат. Так как система обучается постоянно, то с каждым разом эффективность и точность повышается. 
 
@@ -42,6 +51,8 @@
 * Правильный цвет коржа 
 
 Пицца, оцененная **ниже целевого значения**, считается **непригодной** для продажи и готовится заново.
+
+Для обучения данной системы собирались изоображения пиццы. Втечение 10 лет было собрано **более 700000** фотографий.
 
 ####  &nbsp; &nbsp;1.1.2 &nbsp;&nbsp;&nbsp;&nbsp;История развития компании в области ИИ
 * **Что привело к внедрению ИИ**
@@ -74,184 +85,231 @@
 - https://www.itweek.ru/ai/news-company/detail.php?ID=200370
 - https://retailer.ru/ekaterina-kolchina-papa-dzhons-za-god-ne-tolko-kolichestvo-no-i-geografija-nashego-prisutstvija-serjozno-izmenilas/
 
+# ----------------------------------------------------------
+##    &nbsp;1.2 Pizza Hut & Toyota ![](https://robo-hunter.com/uploads/images/14107/news/80_990_455_news_5bdab69d603f2.jpg) 
+
+####  &nbsp; &nbsp;1.2.1 &nbsp;&nbsp;&nbsp;&nbsp;Общее описание интеллектуальной системы и задачи, которые решает
+
+Сеть ресторанов Pizza Hut совместно с компанией Toyota представила пикап Tundra Pie Pro с роботами на борту. Передвижная роботизированная пиццерия может готовить пиццу "прямо на ходу" и развозить ее.
+
+На машине есть две роборуки, которые готовят отправляют зараннее собранное тесто для пиццы в печь, а после нарезают и упоковывают готовое блюдо в коробки.Они даже смогут звонить в колокольчик, чтобы человек, к которому приехала курьерская машина, смог выйти из дома и забрать горячую еду.
+
+Весь процесс приготовления занимает около 6-7 минут, поэтому и робофургон может испечь пиццу прямо по пути к заказчику. Авто и вся внутренняя кухня работают на водородных топливных элементах, поэтому они безопасны для окружающий среды.
+
+
+####  &nbsp; &nbsp;1.2.2 &nbsp;&nbsp;&nbsp;&nbsp;История развития компании в области ИИ
+* **Текущее состояние**
+* **План развития на будущее**
+#
+#
+#
+
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Текущее состояние
+#
+На данный момент это пока концепт, у которого есть некие проблемы:
+* Нет крыши для дождя
+* Данная машина может работать только в Калифорнии, так как только там есть водородное топливо
+
+Поэтому пока проект тестируется разработчиками и улучшается.
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;План развития на будущее
+#
+Компании пока работают над данным концептом и планирует улучшить данный концепт
+
+####  &nbsp; &nbsp;1.2.3 &nbsp;&nbsp;&nbsp;&nbsp;Выводы
+Я считаю, что данный проект пока сырой, так как есть недостатки, из-за которых пока нельзя запустить в реальную пиццерию машину. Но он будет эффетивный, если его реализовать, так как пиццерии смогут экономить время на готовку пиццы, ведь она будет готовится **"на пути к клиенту"**
+####  &nbsp; &nbsp;1.2.4 &nbsp;&nbsp;&nbsp;&nbsp;Источники
+- https://robo-hunter.com/news/pizza-hut-i-toyota-sozdali-robotizirovannuy-kuhny-na-kolesah14107
+- https://hightech.fm/2018/10/31/pizza-2
+
+# ----------------------------------------------------------
+##    &nbsp;1.3 Zume Pizza 
+![](https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Zume_Pizza_Logo.png/440px-Zume_Pizza_Logo.png) 
+
+####  &nbsp; &nbsp;1.3.1 &nbsp;&nbsp;&nbsp;&nbsp;Общее описание интеллектуальной системы и задачи, которые решает
+
+Zume Pizza - автоматизированная пиццерия, основанная в 2015 году.
+
+В Zume Pizza работает несколько различных роботизированных устройств, выполняющих большую часть готовки.
+
+Роботы Пепе (Pepe) и Джорджио (Giorgio) выжимают соус на заготовки из теста, а робот Марта (Marta) равномерно его распределяет. Роботизированная рука Бруно отправляет пиццу в духовку. Также в производстве есть устройство doughbot, делающее заготовки из теста.
+
+* Первый робот раскатывает тесто до необходимых размеров и толщины, он выполняет свой процесс **в несколько раз быстрее**, чем сделал бы это человек. 
+
+* Второй равномерно наносит томатную смесь по поверхности пиццы.
+* Следующий процесс выполняет третий робот, который вставляет пиццу в духовку, а четвертый вытаскивает ее в самый необходимый момент, когда она полностью готова и имеет насыщенный вкус.
+
+Люди в Zume Pizza занимаются приготовлением теста и соуса, а также раскладывают на пиццу начинку.
+
+В Zume Pizza  есть фургоны  – компактные пиццерии на колесах, в которых роботы готовят пиццу во время поездки к клиенту. Данная схема позволяет сократить время доставки. В Zume Pizza могут доставить 372 пиццы за час.
+
+*В начале ноября 2018 года американская компания Zume Pizza привлекла $375 млн инвестиций от японской SoftBank и получила оценку более чем в $2 млрд.*
+
+Вот что думает по этому поводу **Дмитрий Гришин** - *один из инвесторов Zume, основатель фонда Grishin Robotics и председатель совета директоров Mail.Ru Group*
+>Во-первых, вам привозят пиццу не ту, которая была испечена 30-40 минут или час назад, а её запекли за пять минут до этого.
+>
+>Во-вторых, пицца получается более здоровой, так как больше не нужно добавлять консерванты, которые добавляют сейчас, чтобы сохранить вкус как можно дольше на время доставки.
+>
+>Пицца получается быстрее, дешевле и более здоровой. Если получится, то это будет крупнейшая революция в сфере еды, которая случалась.
+
+Также Zume Pizza использует интеллектуальную аналитику, которая помогает определить и спрогнозировать, какие необходимо сделать заготовки, для того, чтобы быть готовыми к загруженному дню. 
+
+####  &nbsp; &nbsp;1.3.2 &nbsp;&nbsp;&nbsp;&nbsp;История развития компании в области ИИ
+* **Текущее состояние**
+* **План развития на будущее**
+#
+#
+#
+
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Текущее состояние
+#
+На данный момент Zume Pizza полностью функционирует и работает, работы выполняют свои задачи.
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;План развития на будущее
+#
+Компания планирует расширить зоны работы своих пиццерий с роботами и зоны работы фургонов.
+Полностью автоматизации производства и замена людей полностью не является целью компании.
+
+####  &nbsp; &nbsp;1.3.3 &nbsp;&nbsp;&nbsp;&nbsp;Выводы
+Я считаю, что данный проект является очень интересным и привлекательным для клиента. Даже если вы всегда покупайте пиццу в какой-либо пиццерии, то ради интереса захочется посмотреть как роботы делают пиццу. Также я считаю, что роботы уменьшают расходы, которые были бы необходимы при условии пицымейкеров и других работников.
+####  &nbsp; &nbsp;1.3.4 &nbsp;&nbsp;&nbsp;&nbsp;Источники
+- https://vc.ru/food/50285-mozhno-li-schitat-robopicceriyu-innovaciey-fedor-ovchinnikov-iz-dodo-piccy-sporit-s-investorom-zume-dmitriem-grishinym
+- https://robo-hunter.com/news/roboti-iz-zume-pizza-gotovyat-piccu-za-4-minuti7049
+- https://www.washingtonpost.com/news/food/wp/2017/06/28/these-pizza-making-robots-can-have-a-hot-pie-at-your-door-in-4-minutes/?noredirect=on&utm_term=.e7a440ccab8a
+- https://www.qled.com.ua/story/zume-pizza/
+
+
 ***
 #    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 2 *
 ##    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Решения в ресторанном бизнесе 
 ***
-##    &nbsp;2.1 Папа Джонс ![](http://www.baring-vostok.com/upload/iblock/143/143ae8acc7f66d47aa6a29e1e5de68d4.png)
+##    &nbsp;2.1 Hai Di Lao HotPot ![](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/18300950_1064501557015394_1947533974157606020_n.jpg?_nc_cat=104&_nc_ht=scontent-arn2-1.xx&oh=40bb756b1d5d20807e6279a6111af5f2&oe=5D0C7A84)
 
-####  &nbsp; &nbsp;1.1.1 &nbsp;&nbsp;&nbsp;&nbsp;Общее описание интеллектуальной системы и задачи,  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;которые решает
+####  &nbsp; &nbsp;2.1.1 &nbsp;&nbsp;&nbsp;&nbsp;Общее описание интеллектуальной системы и задачи, которые решает
 
+Ресторан сети Hai Di Lao HotPot управляется искусственным интеллектом, а часть персонала в нем заменена роботами. **Это первый в мире ресторан под управлением искуссвтенного интеллекта.**
 
+Значительная часть процесса приготовления блюд и обслуживания гостей полностью автоматизирована. Управляется ресторан автоматически. 
 
-
-
-
-
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+**Искусственный интеллект** в реальном времени видит число заказов, блюда, остатки по складам, загрузку плит и посудомоечных машин, может предсказывать наплыв посетителей и наиболее популярные заказы.
 
 
-You can also:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
 
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
+Автоматические официанты перемещаются при помощи специальных радионаправляющих, смонтированных на потолке, а каждый поднос оснащен электронными метками, позволяющими идентифицировать и сортировать заказы. Кроме того, в ресторане используют интеллектуальные тарелки, меняющие температуру в зависимости от блюда.
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
-
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
-
-### Tech
-
-Dillinger uses a number of open source projects to work properly:
-
-* [AngularJS] - HTML enhanced for web apps!
-* [Ace Editor] - awesome web-based text editor
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
-* [Gulp] - the streaming build system
-* [Breakdance](http://breakdance.io) - HTML to Markdown converter
-* [jQuery] - duh
-
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
-
-### Installation
-
-Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
-
-Install the dependencies and devDependencies and start the server.
-
-```sh
-$ cd dillinger
-$ npm install -d
-$ node app
-```
-
-For production environments...
-
-```sh
-$ npm install --production
-$ NODE_ENV=production node app
-```
-
-### Plugins
-
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| Github | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+![](http://ru.siluxgc.com/UploadFiles/2018-12/390/15445024479540877.jpg)
 
 
-### Development
+####  &nbsp; &nbsp;2.1.2 &nbsp;&nbsp;&nbsp;&nbsp;История развития компании в области ИИ
+* **Что привело к внедрению ИИ**
+* **Текущее состояние**
+* **План развития на будущее**
+#
+#
+#
 
-Want to contribute? Great!
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Что привело к внедрению ИИ
+#
 
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantanously see your updates!
+Основной причиной внедрения искусственного интеллекта и роботов в ресторан является оптимизация расходования ресурсов и затрат энергии.
 
-Open your favorite Terminal and run these commands.
-
-First Tab:
-```sh
-$ node app
-```
-
-Second Tab:
-```sh
-$ gulp watch
-```
-
-(optional) Third:
-```sh
-$ karma test
-```
-#### Building for source
-For production release:
-```sh
-$ gulp build --prod
-```
-Generating pre-built zip archives for distribution:
-```sh
-$ gulp build dist --prod
-```
-### Docker
-Dillinger is very easy to install and deploy in a Docker container.
-
-By default, the Docker will expose port 8080, so change this within the Dockerfile if necessary. When ready, simply use the Dockerfile to build the image.
-
-```sh
-cd dillinger
-docker build -t joemccann/dillinger:${package.json.version} .
-```
-This will create the dillinger image and pull in the necessary dependencies. Be sure to swap out `${package.json.version}` with the actual version of Dillinger.
-
-Once done, run the Docker image and map the port to whatever you wish on your host. In this example, we simply map port 8000 of the host to port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-```sh
-docker run -d -p 8000:8080 --restart="always" <youruser>/dillinger:${package.json.version}
-```
-
-Verify the deployment by navigating to your server address in your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
-
-#### Kubernetes + Google Cloud
-
-See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
+Также одной из причин было снижение расходов на зарплаты сотрудников и на электричество.
 
 
-### Todos
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Текущее состояние
+#
+На текущий момент данный ресторан полностью функционирует и работает.
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;План развития на будущее
+#
+В статьях нет планов развития на будущее, но из них можно понять, что в планы развития входит **полная** замена сотрудников, так как на данный момент только часть сотрудников заменена. В данном случае затраты будут уменьшены еще больше.
+####  &nbsp; &nbsp;1.1.3 &nbsp;&nbsp;&nbsp;&nbsp;Выводы
+Я считаю, что данный ресторан является революцией в сфере питания и искусственного интеллекта, так как он самый первый в своем роде. Также можно понять, что люди пытаются вообще все заменить искусственным интеллектом и роботами, ведь это имеет свои большие плюсы.
 
- - Write MORE Tests
- - Add Night Mode
+####  &nbsp; &nbsp;1.1.4 &nbsp;&nbsp;&nbsp;&nbsp;Источники
+- https://360tv.ru/news/tehnologii/pervyj-v-mire-restoran-pod-upravleniem-iskusstvennogo-intellekta-otkrylsja-v-pekine/
+- https://woman.rambler.ru/other/41431279-pervyy-v-mire-restoran-pod-upravleniem-iskusstvennogo-intellekta-otkrylsya-v-pekine/?updated
+- http://ru.siluxgc.com/html/R1682/201812/6225415828503435462.shtml
+- Видео о данном ресторане https://youtu.be/9CfD2WMtPKY
 
-License
-----
+***
 
-MIT
+#    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 3 *
+##    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Решения в производственных компаних в общепите, которые используют искуственный интеллект
+***
+##    &nbsp;3.1 The Coca-Cola Company ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Coca-Cola_Company_logo.svg/1280px-The_Coca-Cola_Company_logo.svg.png)
+
+####  &nbsp; &nbsp;3.1.1 &nbsp;&nbsp;&nbsp;&nbsp;Общее описание интеллектуальной системы и задачи, которые решает
+
+Искусственный интеллект работает с большими данными,собирает данные из автоматов самообслуживания, помогает компании таргетингововй рекламе,предлагает новые и лучше всего подходящие вкусы напитков для потребителей,помогает следить за производством,проверяет торговые автоматы.
+
+В 2017 году компания запустила новый вкус Cherry Sprite **на основе статистики** из автоматов самообслуживания, которые позволяют потребителям смешивать вкусы напитков. ИИ позволил выбрать самые популярные комбинации вкусов и создать на их основе готовый напиток.
+
+**Искусственный интеллект** помог Coca-Cola распознать на фотографиях в интернете собственные продукты и товары конкурентов. 
+Технология также помогает таргетировать рекламу: по сравнению с другими методами продвижения пользователи **в четыре раза чаще** переходят по предложениям от ИИ. В будущем компания рассчитывает создавать рекламу с помощью искусственного интеллекта.
+
+На данный момент компания пытается справиться со снижением продаж газированных и сладких напитков, поэтому собирают большие данные. 
+
+**Бернард Марр**, автор книги Data Strategy, говорит о **The Coca-Cola Company**:
+>Компания объединяет данные о погоде, спутниковые снимки, информацию об урожае, коэффициенты ценообразования, а также информацию о том, насколько сладкие апельсины. Это позволят постоянно поддерживать оптимальный вкус апельсинов. Затем алгоритм находит лучшую комбинацию переменных, которая соответствует вкусам потребителей более чем в 200 странах по всему миру
+
+Также компания использует технологии дополненной реальности (AR) для слежения обородуваниями: техники следят за оборудованием на заводах безалкогольных напитков, а также удаленно помогают диагностировать и решать технологические проблемы. 
+AR также используют для проверки торговых автоматов на круизных лайнерах, которые находятся в море.
 
 
-**Free Software, Hell Yeah!**
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
+####  &nbsp; &nbsp;2.1.2 &nbsp;&nbsp;&nbsp;&nbsp;История развития компании в области ИИ
+* **Что привело к внедрению ИИ**
+* **Текущее состояние**
+* **План развития на будущее**
+#
+#
+#
 
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Что привело к внедрению ИИ
+#
+
+Компания провела исследования в сфере искусственного интеллекта: в Coca-Cola рассчитывали извлечь с помощью технологии полезную информацию из собираемых данных.
+
+Собственно, причинами использования ИИ было:
+* Снижение продаж 
+* Сбор данных для применения в разработках 
+* Улучшение рекламы для продвижения продукции компании
+* Слежка за производством
+
+
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Текущее состояние
+#
+На текущий момент компания использует ИИ для работы с большими данными, для исследований, для рекламы, для слежкой за производством.
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;План развития на будущее
+#
+Компания The Coca-Cola Company хочет разработать систему, которая будет похожа на виртуальных помощников Siri или Alexa. 
+Искусственный интеллект от Coca-Cola будут внедрять в торговые автоматы: технология будет менять характер общения с потребителем в зависимости от места установки автомата и сможет смешивать напитки.
+####  &nbsp; &nbsp;3.1.3 &nbsp;&nbsp;&nbsp;&nbsp;Выводы
+Я считаю, что The Coca-Cola Company внедряет ИИ почти во всех своих направлениях, и это дает свои плоды. У компании привлечение клиентов с помощью рекламы стало намного эффективнее.
+Компания разработал новый вкус и делает исследования с помощью соборанных данных.
+Собственно, Coca-Cola быстрыми темпами развивается в сфере ИИ и Big Data
+
+####  &nbsp; &nbsp;3.1.4 &nbsp;&nbsp;&nbsp;&nbsp;Источники
+- https://incrussia.ru/news/opyt-coca-cola-kak-kompaniya-ispolzuet-iskusstvennyj-intellekt-i-big-data/
+- https://www.sostav.ru/publication/iskusstvennyj-intellekt-pomozhet-coca-cola-s-reklamoj-25768.html
+
+#
+#
+#
+#
+
+***
+#    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 4 *
+##    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Выводы из анализов решений в области AI
+***
+
+После моего анализа решений с использованием искусственного интеллекта в разных сферах, я могу сказать, что сейчас ИИ является неким трендом и шагом в будущее для всех областей. И большинство компаний пытаются разрабатывать новые технологии, использовать ИИ в своей сфере. Но пока нельзя сказать, что область искусственного интеллекта полностью иследована и все уже разработано. 
+Я думаю, то, что сейчас имеется - это пока вершина айсберга всех возможностей искусственного интеллекта. 
+
+#
+#
+#
+#

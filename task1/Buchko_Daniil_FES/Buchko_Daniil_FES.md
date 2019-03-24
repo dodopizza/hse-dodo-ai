@@ -58,4 +58,56 @@ Zume Pizza, стартап доставки еды в районе залива 
 
 Подробнее: [*мяу*](https://arxiv.org/ftp/arxiv/papers/1901/1901.01642.pdf)
 
+# Современные исследования в области общепита
 
+[**Whisk**](https://whisk.com/) uses **deep learning** and **natural language processing** to map the world’s food ingredients, properties (nutrition, perishability, flavour, categories) and food purchase options in order to provide hyper-relevant advertising and customized personalizations 
+
+[**Tastry**](https://www.tastry.com/bottlefly-changes-name-to-tastry/) uses **AI, machine learning, analytical chemistry, flavor preferences** to provide consumer product recommendations. The company provides retailers with science-based suggestions for product development, inventory purchase and direct-to-consumer recommendation 
+
+[**Edamam**](https://developer.edamam.com/edamam-docs-nutrition-api) uses **natural language processing** for extraction of food entities from unstructured text in order to provide nutritional analysis
+
+[**Sure**](https://blog.surebot.io/why-sure-2b69343775ea) is applying **natural language processing and machine learning** to better understand user’s needs and navigate them to the right businesses in the overcrowded food scene
+
+[**Instacart**](https://tech.instacart.com/instacart-anytime-a-data-science-paradigm-33eb25a5c32d) uses **machine learning** to predict real-time availability of grocery items; **machine learning, representation learning and image similarity search** to sort items for users to “buy again” and recommend items for users while they shop; **deep learning** and emojis to sort shoppings lists; **machine learning** to predict distribution of time expected for any given shopper; **machine learning** to predict the number of orders for each delivery window for a given store; **regression models** and **machine learning** to manage variance and ensure on-time deliveries; and **machine learning models** to predict the likelihood of claim and cancelation of any particular hours in order to improve supply planning.
+
+[**Pingwell**](http://www.pingwell.com/) is exploring the use of **computer vision** and **machine learning algorithms** to deliver the contextual information to consumers and retailers in the grocery/pharmacy space.
+
+# Независимые исследования by Cornell University
+
+*Внутри каждой ссылки есть подробные описания моделей на английском с иллюстрациями и графиками, перепечатывать сюда не хватило бы места :)*
+
+:heavy_minus_sign: Predicting food security outcomes [**(Ganguli et al., 2019)**](https://arxiv.org/abs/1902.05433)
+
+:heavy_minus_sign: Food identification [**(Sun et al., 2019)**](https://arxiv.org/abs/1902.05413)
+
+:heavy_minus_sign: Estimation of personnel food demand quantity [**(Calp, 2019)**](https://arxiv.org/abs/1902.04412)
+
+:heavy_minus_sign: Ranking food preferences [**(Ragain et al., 2019)**](https://arxiv.org/abs/1809.05139)
+
+:heavy_minus_sign: Automatic surface area and volume prediction of food [**(Gan et al., 2019)**](https://arxiv.org/abs/1901.04947)
+
+:heavy_minus_sign: Generating images of food based on recipes text [**(El et al., 2019)**](https://arxiv.org/abs/1901.02404)
+
+:heavy_minus_sign: Automatically assign a collective restaurant star rating based on customer reviews of food [**(Cuizon et al., 2019)**](https://arxiv.org/abs/1901.01642)
+
+:heavy_minus_sign: Food recommender system based on user’s history, ingredients and image of a recipe [**(Gao et al., 2019)**](https://arxiv.org/abs/1810.05032)
+
+:heavy_minus_sign: Visual identification of fraudulent foodstuff products [**(He at al., 2018)**](https://arxiv.org/abs/1901.00516)
+
+:heavy_minus_sign: Food recognition using partially labeled data [**(Mandal et al., 2018)**](https://arxiv.org/abs/1812.10179)
+
+:heavy_minus_sign: Recipe generation from food images [**(Salvador et al., 2018)**](https://arxiv.org/abs/1812.06164)
+
+:heavy_minus_sign: Recognizing eating gestures by tracking wrist motion [**(Shen et al., 2018)**](https://arxiv.org/abs/1812.04513)
+
+:heavy_minus_sign: Real-time detection of foodborne illness [**(Sadilek et al., 2018)**](https://arxiv.org/abs/1812.01813)
+
+:heavy_minus_sign: Automated food label quality assessments [**(Ribeiro et al., 2018)**](https://arxiv.org/abs/1812.01681)
+
+:heavy_minus_sign: Plant seedlings classification [**(Nkemelu et al., 2018)**](https://arxiv.org/abs/1811.08404)
+
+:heavy_minus_sign: Automatically assessing the health of individual chickens [**(Abdoli et al., 2018)**](https://arxiv.org/abs/1811.03149)
+
+:heavy_minus_sign: Identification of leaf diseases using images [**(Maity et al., 2018)**](https://arxiv.org/abs/1810.10188)
+
+[Source](https://blog.produvia.com/artificial-intelligence-ai-in-food-industry-ec8e925fa35e)
