@@ -181,7 +181,3 @@ Food service apps are now utilizing AI to benefit the restaurant industry, not j
 Founded in 2013, TellSpec is an AI company that has developed a hand-held scanner to classify the contents of food at a molecular level. They use bioinformatics techniques and learning algorithms to provide information about the ingredients and other details about food. A light is beamed directly onto the food item to read chemical compounds before the information is uploaded through TellSpec’s analytics systems. Restaurateurs can receive the data about the food via their smartphones.
 
 This type of AI can benefit the restaurant industry because TellSpec says that its technology can identify harmful substances in food. Substances that cause allergies can also be identified. Calories and macronutrients are recognized to provide customers with more information about the composition of their food. This AI technology provides benefits in relation to food safety and serves as a verification system and safeguard for restaurants. Customers are becoming increasingly concerned about the origins and composition of their food. AI technology such as TellSpec gives customers confidence due to the transparency in relation to nutritional values and other relevant information.  
-
-    
-
-
