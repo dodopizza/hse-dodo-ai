@@ -72,17 +72,17 @@ Zume Pizza, стартап доставки еды в районе залива 
 
 [**Pingwell**](http://www.pingwell.com/) is exploring the use of **computer vision** and **machine learning algorithms** to deliver the contextual information to consumers and retailers in the grocery/pharmacy space.
 
-Predicting food security outcomes [**(Ganguli et al., 2019)**](https://arxiv.org/abs/1902.05433)
+:small_red_triangle:Predicting food security outcomes [**(Ganguli et al., 2019)**](https://arxiv.org/abs/1902.05433)
 
-Food identification [**(Sun et al., 2019)**](https://arxiv.org/abs/1902.05413)
+:small_red_triangle:Food identification [**(Sun et al., 2019)**](https://arxiv.org/abs/1902.05413)
 
-Estimation of personnel food demand quantity [**(Calp, 2019)**](https://arxiv.org/abs/1902.04412)
+:small_red_triangle:Estimation of personnel food demand quantity [**(Calp, 2019)**](https://arxiv.org/abs/1902.04412)
 
-Ranking food preferences [**(Ragain et al., 2019)**](https://arxiv.org/abs/1809.05139)
+:small_red_triangle:Ranking food preferences [**(Ragain et al., 2019)**](https://arxiv.org/abs/1809.05139)
 
-Automatic surface area and volume prediction of food [**(Gan et al., 2019)**](https://arxiv.org/abs/1901.04947)
+:small_red_triangle:Automatic surface area and volume prediction of food [**(Gan et al., 2019)**](https://arxiv.org/abs/1901.04947)
 
-Generating images of food based on recipes text [**(El et al., 2019)**](https://arxiv.org/abs/1901.02404)
+:small_red_triangle:Generating images of food based on recipes text [**(El et al., 2019)**](https://arxiv.org/abs/1901.02404)
 
 Automatically assign a collective restaurant star rating based on customer reviews of food [**(Cuizon et al., 2019)**](https://arxiv.org/abs/1901.01642)
 
