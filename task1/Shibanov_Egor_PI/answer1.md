@@ -53,3 +53,17 @@ http://www.globaltimes.cn/content/1137284.shtml
 Так же можно сказать о том, что в большинстве ресторанов можно заказывать еду с помощью Алексы (Amazon) или Кортаны (Microsoft)
 
 # Компании общепита
+Нашел статью (первая в результатах поиска) https://heartbeat.fritz.ai/4-applications-of-artificial-intelligence-ai-in-the-food-industry-e742d7c02948) о применениях ИИ:
+
+1. Сортировка
+2. Гигиена
+3. Чистота
+4. Улучшение потока продукции
+
+## TOMRA
+
+## RetailAI
+
+## KanKan
+
+## SOCIP
