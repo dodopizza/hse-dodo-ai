@@ -72,4 +72,38 @@ Zume Pizza, стартап доставки еды в районе залива 
 
 [**Pingwell**](http://www.pingwell.com/) is exploring the use of **computer vision** and **machine learning algorithms** to deliver the contextual information to consumers and retailers in the grocery/pharmacy space.
 
-[Source: ](https://blog.produvia.com/artificial-intelligence-ai-in-food-industry-ec8e925fa35e)
+Predicting food security outcomes [**(Ganguli et al., 2019)**](https://arxiv.org/abs/1902.05433)
+
+Food identification [**(Sun et al., 2019)**](https://arxiv.org/abs/1902.05413)
+
+Estimation of personnel food demand quantity [**(Calp, 2019)**](https://arxiv.org/abs/1902.04412)
+
+Ranking food preferences [**(Ragain et al., 2019)**](https://arxiv.org/abs/1809.05139)
+
+Automatic surface area and volume prediction of food [**(Gan et al., 2019)**](https://arxiv.org/abs/1901.04947)
+
+Generating images of food based on recipes text [**(El et al., 2019)**](https://arxiv.org/abs/1901.02404)
+
+Automatically assign a collective restaurant star rating based on customer reviews of food [**(Cuizon et al., 2019)**](https://arxiv.org/abs/1901.01642)
+
+Food recommender system based on user’s history, ingredients and image of a recipe [**(Gao et al., 2019)**](https://arxiv.org/abs/1810.05032)
+
+Visual identification of fraudulent foodstuff products [**(He at al., 2018)**](https://arxiv.org/abs/1901.00516)
+
+Food recognition using partially labeled data [**(Mandal et al., 2018)**](https://arxiv.org/abs/1812.10179)
+
+Recipe generation from food images [**(Salvador et al., 2018)**](https://arxiv.org/abs/1812.06164)
+
+Recognizing eating gestures by tracking wrist motion [**(Shen et al., 2018)**](https://arxiv.org/abs/1812.04513)
+
+Real-time detection of foodborne illness [**(Sadilek et al., 2018)**](https://arxiv.org/abs/1812.01813)
+
+Automated food label quality assessments [**(Ribeiro et al., 2018)**](https://arxiv.org/abs/1812.01681)
+
+Plant seedlings classification [**(Nkemelu et al., 2018)**](https://arxiv.org/abs/1811.08404)
+
+Automatically assessing the health of individual chickens [**(Abdoli et al., 2018)**](https://arxiv.org/abs/1811.03149)
+
+Identification of leaf diseases using images [**(Maity et al., 2018)**](https://arxiv.org/abs/1810.10188)
+
+[Source](https://blog.produvia.com/artificial-intelligence-ai-in-food-industry-ec8e925fa35e)
